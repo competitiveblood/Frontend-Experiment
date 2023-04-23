@@ -1,2 +1,2 @@
 # Frontend-Experiment
-React bootcamp-Creating my first website
+This repository is about making a pseudo Leetcode like website as my project while learning HTML,CSS and JS 
